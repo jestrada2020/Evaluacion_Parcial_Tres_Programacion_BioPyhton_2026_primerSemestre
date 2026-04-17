@@ -1,2 +1,2 @@
-# Evaluacion_Parcial_Tres_Programacion_BioPyhton_2026_primerSemestre
-Aplicación que mide que tanto han adquirido habilidades en programación
+# SegundoParcialBioPythonV1
+Aplicación para verificar lo aprendido en el curso
